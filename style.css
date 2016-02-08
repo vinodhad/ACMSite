@@ -546,3 +546,6 @@ display: none;
 .desc p{
     color: #3C3C3C;
 }
+.gallery-image img{
+	max-width: 100%;
+}
